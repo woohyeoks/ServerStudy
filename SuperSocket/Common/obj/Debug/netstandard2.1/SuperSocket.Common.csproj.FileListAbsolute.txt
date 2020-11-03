@@ -1,0 +1,9 @@
+D:\MyProject\Programming\Share_Git\SuperSocketLite\Common\bin\Debug\netstandard2.1\SuperSocket.Common.deps.json
+D:\MyProject\Programming\Share_Git\SuperSocketLite\Common\bin\Debug\netstandard2.1\SuperSocket.Common.dll
+D:\MyProject\Programming\Share_Git\SuperSocketLite\Common\bin\Debug\netstandard2.1\SuperSocket.Common.pdb
+D:\MyProject\Programming\Share_Git\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.csprojAssemblyReference.cache
+D:\MyProject\Programming\Share_Git\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.AssemblyInfoInputs.cache
+D:\MyProject\Programming\Share_Git\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.AssemblyInfo.cs
+D:\MyProject\Programming\Share_Git\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.dll
+D:\MyProject\Programming\Share_Git\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.pdb
+D:\MyProject\Programming\Share_Git\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.csproj.CoreCompileInputs.cache

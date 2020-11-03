@@ -1,0 +1,121 @@
+[2020/10/29 23:21:41.328] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: MessagePack.MessagePackSerializationException: Failed to serialize ServerLib.PKTNtfGameEnter value.
+ ---> MessagePack.FormatterNotRegisteredException: ServerLib.PlayerInfo is not registered in resolver: MessagePack.Resolvers.StandardResolver
+   at MessagePack.FormatterResolverExtensions.Throw(Type t, IFormatterResolver resolver)
+   at MessagePack.Formatters.ServerLib_PKTNtfGameEnterFormatter1.Serialize(MessagePackWriter& writer, PKTNtfGameEnter value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   --- End of inner exception stack trace ---
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](T value, MessagePackSerializerOptions options, CancellationToken cancellationToken)
+   at MMOServer.Game.Room.EnterGame(Int32 playerID, String netSessionID) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Game\Room.cs:line 47
+   at MMOServer.Packet.PacketHandlerCommon.NotifyInConnectClient(ServerPacketData requestData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketHandlerCommon.cs:line 35
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 49
+[2020/10/29 23:28:32.486] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: MessagePack.MessagePackSerializationException: Failed to serialize ServerLib.PKTNtfGameEnter value.
+ ---> MessagePack.FormatterNotRegisteredException: ServerLib.PlayerInfo is not registered in resolver: MessagePack.Resolvers.StandardResolver
+   at MessagePack.FormatterResolverExtensions.Throw(Type t, IFormatterResolver resolver)
+   at MessagePack.Formatters.ServerLib_PKTNtfGameEnterFormatter1.Serialize(MessagePackWriter& writer, PKTNtfGameEnter value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   --- End of inner exception stack trace ---
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](T value, MessagePackSerializerOptions options, CancellationToken cancellationToken)
+   at MMOServer.Game.Room.EnterGame(Player player, String netSessionID) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Game\Room.cs:line 43
+   at MMOServer.Packet.PacketHandlerCommon.NotifyInConnectClient(ServerPacketData requestData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketHandlerCommon.cs:line 35
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 49
+[2020/10/29 23:29:13.672] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: MessagePack.MessagePackSerializationException: Failed to serialize ServerLib.PKTNtfGameEnter value.
+ ---> MessagePack.FormatterNotRegisteredException: ServerLib.PlayerInfo is not registered in resolver: MessagePack.Resolvers.StandardResolver
+   at MessagePack.FormatterResolverExtensions.Throw(Type t, IFormatterResolver resolver)
+   at MessagePack.Formatters.ServerLib_PKTNtfGameEnterFormatter1.Serialize(MessagePackWriter& writer, PKTNtfGameEnter value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   --- End of inner exception stack trace ---
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](T value, MessagePackSerializerOptions options, CancellationToken cancellationToken)
+   at MMOServer.Game.Room.EnterGame(Player player, String netSessionID) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Game\Room.cs:line 43
+   at MMOServer.Packet.PacketHandlerCommon.NotifyInConnectClient(ServerPacketData requestData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketHandlerCommon.cs:line 35
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 49
+[2020/10/29 23:30:05.837] [TID:10] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: MessagePack.MessagePackSerializationException: Failed to serialize ServerLib.PKTNtfGameEnter value.
+ ---> System.TypeInitializationException: The type initializer for 'FormatterCache`1' threw an exception.
+ ---> MessagePack.Internal.MessagePackDynamicObjectResolverException: all public members must mark KeyAttribute or IgnoreMemberAttribute. type: ServerLib.PlayerInfo member:name
+   at MessagePack.Internal.ObjectSerializationInfo.CreateOrNull(Type type, Boolean forceStringKey, Boolean contractless, Boolean allowPrivate)
+   at MessagePack.Internal.DynamicObjectTypeBuilder.BuildType(DynamicAssembly assembly, Type type, Boolean forceStringKey, Boolean contractless)
+   at MessagePack.Resolvers.DynamicObjectResolver.FormatterCache`1..cctor()
+   --- End of inner exception stack trace ---
+   at MessagePack.Resolvers.DynamicObjectResolver.GetFormatter[T]()
+   at MessagePack.Resolvers.StandardResolver.FormatterCache`1..cctor()
+--- End of stack trace from previous location where exception was thrown ---
+   at MessagePack.FormatterResolverExtensions.Throw(TypeInitializationException ex)
+   at MessagePack.Formatters.ServerLib_PKTNtfGameEnterFormatter1.Serialize(MessagePackWriter& writer, PKTNtfGameEnter value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   --- End of inner exception stack trace ---
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](T value, MessagePackSerializerOptions options, CancellationToken cancellationToken)
+   at MMOServer.Game.Room.EnterGame(Player player, String netSessionID) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Game\Room.cs:line 43
+   at MMOServer.Packet.PacketHandlerCommon.NotifyInConnectClient(ServerPacketData requestData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketHandlerCommon.cs:line 35
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 49
+[2020/10/29 23:34:16.319] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: MessagePack.MessagePackSerializationException: Failed to serialize ServerLib.PKTNtfGameEnter value.
+ ---> System.TypeInitializationException: The type initializer for 'FormatterCache`1' threw an exception.
+ ---> MessagePack.Internal.MessagePackDynamicObjectResolverException: all public members must mark KeyAttribute or IgnoreMemberAttribute. type: ServerLib.PlayerInfo member:name
+   at MessagePack.Internal.ObjectSerializationInfo.CreateOrNull(Type type, Boolean forceStringKey, Boolean contractless, Boolean allowPrivate)
+   at MessagePack.Internal.DynamicObjectTypeBuilder.BuildType(DynamicAssembly assembly, Type type, Boolean forceStringKey, Boolean contractless)
+   at MessagePack.Resolvers.DynamicObjectResolver.FormatterCache`1..cctor()
+   --- End of inner exception stack trace ---
+   at MessagePack.Resolvers.DynamicObjectResolver.GetFormatter[T]()
+   at MessagePack.Resolvers.StandardResolver.FormatterCache`1..cctor()
+--- End of stack trace from previous location where exception was thrown ---
+   at MessagePack.FormatterResolverExtensions.Throw(TypeInitializationException ex)
+   at MessagePack.Formatters.ServerLib_PKTNtfGameEnterFormatter1.Serialize(MessagePackWriter& writer, PKTNtfGameEnter value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   --- End of inner exception stack trace ---
+   at MessagePack.MessagePackSerializer.Serialize[T](MessagePackWriter& writer, T value, MessagePackSerializerOptions options)
+   at MessagePack.MessagePackSerializer.Serialize[T](T value, MessagePackSerializerOptions options, CancellationToken cancellationToken)
+   at MMOServer.Game.Room.EnterGame(Player player, String netSessionID) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Game\Room.cs:line 43
+   at MMOServer.Packet.PacketHandlerCommon.NotifyInConnectClient(ServerPacketData requestData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketHandlerCommon.cs:line 35
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 49
+[2020/10/29 23:42:14.847] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/30 00:50:58.444] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.ArgumentException: Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Buffer.BlockCopy(Array src, Int32 srcOffset, Array dst, Int32 dstOffset, Int32 count)
+   at ServerLib.PacketToBytes.Make(PACKETID packetID, Byte[] bodyData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\PacketData.cs:line 38
+   at MMOServer.Game.Room.EnterGame(Player player, String netSessionID) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Game\Room.cs:line 43
+   at MMOServer.Packet.PacketHandlerCommon.NotifyInConnectClient(ServerPacketData requestData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketHandlerCommon.cs:line 35
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 49
+[2020/10/30 00:51:58.322] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/30 01:08:04.936] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/30 01:16:16.380] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:15:09.990] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:16:33.088] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:17:22.595] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:18:49.616] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:21:47.179] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:28:10.908] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:29:13.351] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:30:32.011] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:32:36.183] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:34:09.494] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:36:32.874] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:45:09.090] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/10/31 00:51:29.751] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 53
+[2020/11/01 10:08:40.018] [TID:1] [SocketListenerBase.OnError => SocketServerBase.OnListenerError => NLogLog.Error]: msg:Listener (0.0.0.0:8888) error: 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다., exception:System.Net.Sockets.SocketException (10048): 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) in D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketEngine\TcpAsyncSocketListener.cs:line 41
+[2020/11/01 10:09:22.615] [TID:1] [SocketListenerBase.OnError => SocketServerBase.OnListenerError => NLogLog.Error]: msg:Listener (0.0.0.0:8888) error: 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다., exception:System.Net.Sockets.SocketException (10048): 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) in D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketEngine\TcpAsyncSocketListener.cs:line 41

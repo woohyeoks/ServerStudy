@@ -1,0 +1,9 @@
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\ChatServer\CSBaseLib\bin\Debug\netcoreapp3.1\CSBaseLib.deps.json
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\ChatServer\CSBaseLib\bin\Debug\netcoreapp3.1\CSBaseLib.dll
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\ChatServer\CSBaseLib\bin\Debug\netcoreapp3.1\CSBaseLib.pdb
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\ChatServer\CSBaseLib\obj\Debug\netcoreapp3.1\CSBaseLib.csprojAssemblyReference.cache
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\ChatServer\CSBaseLib\obj\Debug\netcoreapp3.1\CSBaseLib.AssemblyInfoInputs.cache
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\ChatServer\CSBaseLib\obj\Debug\netcoreapp3.1\CSBaseLib.AssemblyInfo.cs
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\ChatServer\CSBaseLib\obj\Debug\netcoreapp3.1\CSBaseLib.csproj.CoreCompileInputs.cache
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\ChatServer\CSBaseLib\obj\Debug\netcoreapp3.1\CSBaseLib.dll
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\ChatServer\CSBaseLib\obj\Debug\netcoreapp3.1\CSBaseLib.pdb

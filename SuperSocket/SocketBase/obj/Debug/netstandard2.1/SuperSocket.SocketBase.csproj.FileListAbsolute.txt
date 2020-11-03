@@ -1,0 +1,12 @@
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\bin\Debug\netstandard2.1\SuperSocket.SocketBase.deps.json
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\bin\Debug\netstandard2.1\SuperSocket.SocketBase.dll
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\bin\Debug\netstandard2.1\SuperSocket.SocketBase.pdb
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\bin\Debug\netstandard2.1\SuperSocket.Common.dll
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\bin\Debug\netstandard2.1\SuperSocket.Common.pdb
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.csprojAssemblyReference.cache
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.AssemblyInfoInputs.cache
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.AssemblyInfo.cs
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.csproj.CopyComplete
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.dll
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.pdb
+D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.csproj.CoreCompileInputs.cache

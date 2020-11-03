@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsCcTbENDZWSUEsuons8U0mjn1MigFAgRNob3bqUs72dmcK4T4C9WqoyvsY6sKi3es6h38oVv4EW8in0hbrsPg==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\Programming\\ServerStudy\\SuperSocket\\Project\\MMOServer\\ServerLib\\ServerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dngur\\.nuget\\packages\\messagepack\\2.2.60\\messagepack.2.2.60.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\messagepack.annotations\\2.2.60\\messagepack.annotations.2.2.60.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.reflection.emit\\4.6.0\\system.reflection.emit.4.6.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

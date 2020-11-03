@@ -1,0 +1,53 @@
+[2020/10/28 00:48:59.333] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 00:48:59.352] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Not Success
+[2020/10/28 00:48:59.380] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/28 00:48:59.380] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance ChatServer has been started!
+[2020/10/28 00:48:59.380] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/28 00:48:59.380] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 00:49:02.445] [TID:1] [SocketListenerBase.OnStopped => SocketServerBase.OnListenerStopped => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was stoppped
+[2020/10/28 00:49:02.445] [TID:1] [AppServer`2.Stop => AppServerBase`2.Stop => NLogLog.Info]: The server instance ChatServer has been stopped!
+[2020/10/28 08:03:44.452] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 08:03:44.467] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Not Success
+[2020/10/28 08:03:44.497] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/28 08:03:44.497] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance ChatServer has been started!
+[2020/10/28 08:03:44.497] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/28 08:03:44.497] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 22:43:52.385] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 22:43:52.481] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 22:44:07.847] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 22:44:07.878] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 22:45:01.452] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 22:45:01.524] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 22:49:42.058] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 22:49:42.074] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Not Success
+[2020/10/28 22:49:42.100] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/28 22:49:42.100] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance ChatServer has been started!
+[2020/10/28 22:49:42.100] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/28 22:49:42.100] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 22:51:13.164] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 22:51:13.180] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Not Success
+[2020/10/28 22:51:13.207] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/28 22:51:13.207] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance ChatServer has been started!
+[2020/10/28 22:51:13.207] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/28 22:51:13.207] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 22:54:32.445] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 22:54:32.462] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Not Success
+[2020/10/28 22:54:32.494] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/28 22:54:32.494] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance ChatServer has been started!
+[2020/10/28 22:54:32.494] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/28 22:54:32.494] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 22:54:44.374] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 접속
+[2020/10/28 22:54:44.374] [TID:9] [PacketProcessor.Process => PKHCommon.NotifyInConnectClient => NLogLog.Debug]: Current Connected Session Count: 1
+[2020/10/28 22:54:50.264] [TID:4] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 2, ThreadId: 4
+[2020/10/28 22:54:56.535] [TID:6] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 5, ThreadId: 6
+[2020/10/28 22:54:59.829] [TID:6] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 5, ThreadId: 6
+[2020/10/28 22:55:00.498] [TID:6] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 5, ThreadId: 6
+[2020/10/28 22:55:01.125] [TID:4] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 5, ThreadId: 4
+[2020/10/28 22:55:01.996] [TID:5] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 5, ThreadId: 5
+[2020/10/28 22:55:04.356] [TID:5] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 0, ThreadId: 5
+[2020/10/28 22:55:05.645] [TID:4] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 0, ThreadId: 4
+[2020/10/28 22:55:06.430] [TID:5] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 0, ThreadId: 5
+[2020/10/28 22:55:07.161] [TID:5] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 0, ThreadId: 5
+[2020/10/28 22:55:07.549] [TID:4] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 2, ThreadId: 4
+[2020/10/28 22:55:07.920] [TID:4] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 0, ThreadId: 4
+[2020/10/28 22:55:08.261] [TID:8] [AppServerBase`2.ExecuteCommand => MainServer.OnPacketReceived => NLogLog.Debug]: 세션 번호 0b58f8c3-d708-4852-8079-82cf99b02f3e 받은 데이터 크기: 2, ThreadId: 8

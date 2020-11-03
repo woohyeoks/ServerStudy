@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KIIStWn38tNCkCzFGe2uGPWal/5fgWuPwuXLxyX8Dvka9zHtct/7PpBZNYnIIc7ii/tcC5eO+Hkeyy8z6wysQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\Programming\\ServerStudy\\SuperSocket\\SocketBase\\SuperSocket.SocketBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dngur\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\nlog\\4.6.5\\nlog.4.6.5.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\nlog.extensions.logging\\1.5.4\\nlog.extensions.logging.1.5.4.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\dngur\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.exe
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.deps.json
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.json
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.dev.json
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.dll
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.pdb
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfoInputs.cache
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfo.cs
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CoreCompileInputs.cache
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.dll
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.pdb
+D:\MyProject\Programming\ServerStudy\SuperSocket\Tutorials\EchoServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.genruntimeconfig.cache

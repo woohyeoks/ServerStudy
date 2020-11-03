@@ -1,0 +1,444 @@
+[2020/10/28 23:21:04.078] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 23:21:04.121] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/28 23:21:04.121] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/28 23:21:04.121] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/28 23:21:04.121] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 23:21:09.453] [TID:1] [SocketListenerBase.OnStopped => SocketServerBase.OnListenerStopped => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was stoppped
+[2020/10/28 23:21:09.453] [TID:1] [AppServer`2.Stop => AppServerBase`2.Stop => NLogLog.Info]: The server instance MMOServer has been stopped!
+[2020/10/28 23:23:11.177] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 23:23:11.224] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/28 23:23:11.224] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/28 23:23:11.224] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/28 23:23:11.224] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/28 23:23:17.178] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: 세션 번호 c3c0a6b3-e3c9-4f8b-ab65-906922feff38 접속
+[2020/10/28 23:52:21.929] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/28 23:52:21.945] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/28 23:52:21.986] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/28 23:52:21.986] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/28 23:52:21.986] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/28 23:52:21.986] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 21:11:50.600] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 21:11:50.620] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 21:11:50.665] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 21:11:50.665] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 21:11:50.665] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 21:11:50.665] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 21:15:59.598] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 21:15:59.613] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 21:15:59.639] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 21:15:59.639] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 21:15:59.639] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 21:15:59.639] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 21:16:06.991] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 21:16:07.017] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 21:16:07.090] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 21:16:07.090] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 21:16:07.090] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 21:16:07.090] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 21:16:33.580] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 92fba410-5e18-4d9c-be9c-a6346a26cfae 접속
+[2020/10/29 21:17:32.871] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 21:17:32.901] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 21:17:32.970] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 21:17:32.970] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 21:17:32.970] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 21:17:32.970] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 21:17:35.278] [TID:7] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 0180f576-1458-44d1-b417-17000234cfd6 접속
+[2020/10/29 21:18:55.874] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 21:18:55.979] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 21:19:14.226] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 21:19:31.661] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 21:21:33.585] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 21:21:33.602] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 21:21:33.628] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 21:21:33.628] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 21:21:33.628] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 21:21:33.628] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 21:21:38.841] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 21:21:44.045] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 21:21:44.105] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 21:21:44.105] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 21:21:44.105] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 21:21:44.105] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 21:21:47.539] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 d1923be6-c003-4f65-884a-b9f62686abcf 접속
+[2020/10/29 21:21:55.630] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 21:22:01.115] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/29 22:01:06.494] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 22:01:06.524] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 22:01:06.551] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 22:01:06.551] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 22:01:06.551] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 22:01:06.551] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:20:14.974] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:20:15.009] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:20:15.045] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:20:15.045] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:20:15.045] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:20:15.045] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:21:41.002] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 7f919e7b-14f9-44e9-9c16-bb3921dba7ef 접속
+[2020/10/29 23:21:41.099] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:21:58.830] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:21:58.883] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:21:58.953] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:21:58.953] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:21:58.953] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:21:58.953] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:22:01.999] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 4a412212-5511-4679-9e78-4e6de260e48b 접속
+[2020/10/29 23:22:13.206] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:24:03.036] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:24:03.074] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:24:03.138] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:24:03.138] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:24:03.138] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:24:03.138] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:24:07.452] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 c15742d0-f61e-4e12-967f-39180f2e1775 접속
+[2020/10/29 23:24:09.083] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:25:36.067] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:25:36.104] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:25:36.186] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:25:36.186] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:25:36.186] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:25:36.186] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:25:37.549] [TID:8] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 af43a520-7e23-4d23-8efc-03bd8f6b36ec 접속
+[2020/10/29 23:28:22.147] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:28:22.185] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:28:22.263] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:28:22.263] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:28:22.263] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:28:22.263] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:28:24.109] [TID:7] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 d60aec60-2b22-455b-850e-3f14584c7ef1 접속
+[2020/10/29 23:28:32.274] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:28:45.963] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:28:45.998] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:28:46.070] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:28:46.070] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:28:46.070] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:28:46.070] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:28:48.112] [TID:7] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 f8ced494-63d8-4ece-a7f8-fce9e32ab6ec 접속
+[2020/10/29 23:28:57.890] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:29:55.345] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:29:55.401] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:29:55.477] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:29:55.477] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:29:55.477] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:29:55.477] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:29:58.028] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 5fd5e5cd-ba5a-4b7e-b046-3e6dcc322109 접속
+[2020/10/29 23:30:02.771] [TID:10] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:34:08.163] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:34:08.204] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:34:08.282] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:34:08.282] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:34:08.282] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:34:08.282] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:34:09.993] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 3de949c6-48dd-4246-beff-f3a6e3e43c50 접속
+[2020/10/29 23:34:11.966] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:39:25.066] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:39:25.155] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:39:25.226] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:39:25.226] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:39:25.226] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:39:25.226] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:39:26.735] [TID:7] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 a65f7181-c0fb-4afe-9714-94306d8c8871 접속
+[2020/10/29 23:39:29.378] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:39:45.438] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/29 23:41:17.821] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:41:17.851] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:41:17.877] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:41:17.877] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:41:17.877] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:41:17.877] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:41:20.955] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 aa2b130d-dd01-4f4d-9369-598a66df8627 접속
+[2020/10/29 23:41:20.961] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:41:21.069] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/29 23:41:27.133] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:41:27.151] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:41:27.178] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:41:27.180] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:41:27.180] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:41:27.180] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:41:32.027] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 d6eba782-f073-43fc-9f6a-692b9635159d 접속
+[2020/10/29 23:41:32.027] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:41:32.144] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/29 23:42:14.831] [TID:12] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 d6eba782-f073-43fc-9f6a-692b9635159d 접속해제: ClientClosing
+[2020/10/29 23:42:28.449] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:42:28.485] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:42:28.550] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:42:28.550] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:42:28.550] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:42:28.550] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:42:32.860] [TID:7] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 623f5829-6414-4ec5-89e3-a0317c4c22de 접속
+[2020/10/29 23:42:38.578] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:42:38.827] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/29 23:42:50.890] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:42:50.909] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:42:50.935] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:42:50.935] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:42:50.935] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:42:50.935] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:43:14.538] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:43:14.556] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:43:14.582] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:43:14.582] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:43:14.582] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:43:14.582] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:47:13.251] [TID:8] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 ed8541f6-1f05-481f-b030-0f94948a4ba4 접속
+[2020/10/29 23:47:13.251] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:47:13.366] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/29 23:48:35.579] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:48:35.613] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:48:35.679] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:48:35.679] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:48:35.679] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:48:35.679] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:48:47.527] [TID:8] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 ba697f89-7a0e-447c-bfcc-b706e64c4b31 접속
+[2020/10/29 23:48:48.615] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:49:40.614] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:49:40.659] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:49:40.736] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:49:40.736] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:49:40.736] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:49:40.736] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:49:42.901] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 da29caed-ebac-4411-b612-34c52786e801 접속
+[2020/10/29 23:50:46.828] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/29 23:50:46.845] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/29 23:50:46.873] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/29 23:50:46.873] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/29 23:50:46.873] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/29 23:50:46.873] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/29 23:51:22.380] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 e19c27e9-3ed0-4caf-95f8-e3b6b4be946f 접속
+[2020/10/29 23:51:22.386] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/29 23:51:22.498] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 00:40:35.313] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 00:40:35.342] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 00:40:35.372] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 00:40:35.372] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 00:40:35.372] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 00:40:35.372] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 00:41:07.731] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 6e2f0a12-83b6-403d-9d1e-24b220a2e196 접속
+[2020/10/30 00:41:07.731] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 00:41:07.862] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 00:50:13.307] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 00:50:13.348] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 00:50:13.387] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 00:50:13.387] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 00:50:13.387] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 00:50:13.387] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 00:50:58.321] [TID:8] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 1f4a1ba4-211a-4c83-b1ac-e619a627a75e 접속
+[2020/10/30 00:50:58.321] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 00:51:58.322] [TID:7] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 1f4a1ba4-211a-4c83-b1ac-e619a627a75e 접속해제: ClientClosing
+[2020/10/30 00:52:03.405] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 00:52:03.423] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 00:52:03.450] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 00:52:03.450] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 00:52:03.450] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 00:52:03.450] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 00:52:30.917] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 0d484913-ca8d-44f6-a912-9c0d04e4776c 접속
+[2020/10/30 00:52:30.917] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 00:52:31.037] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 00:53:00.234] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 00:53:00.251] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 00:53:00.277] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 00:53:00.277] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 00:53:00.277] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 00:53:00.277] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 00:55:20.088] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 00:55:20.105] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 00:55:20.131] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 00:55:20.133] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 00:55:20.133] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 00:55:20.133] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 00:55:57.188] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 22c7f73b-f07c-46c0-9fc6-20017eb8667c 접속
+[2020/10/30 00:55:57.188] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 00:55:57.309] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 00:57:12.351] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 00:57:12.404] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 00:57:12.474] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 00:57:12.476] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 00:57:12.476] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 00:57:12.476] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 00:57:17.256] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 9cec3afa-3897-498c-83b2-d26ac282333b 접속
+[2020/10/30 00:57:18.809] [TID:10] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 00:57:56.635] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 00:57:56.653] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 00:57:56.679] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 00:57:56.679] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 00:57:56.679] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 00:57:56.679] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 00:58:22.720] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 29d9c8e2-83aa-453d-9af9-e73fb833bbda 접속
+[2020/10/30 00:58:22.720] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 00:58:22.839] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 01:01:20.729] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 01:01:20.783] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 01:01:20.850] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 01:01:20.851] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 01:01:20.851] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 01:01:20.851] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 01:01:26.949] [TID:8] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 31a19622-6c45-477b-924b-94cfdc6fe6ec 접속
+[2020/10/30 01:01:28.339] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 01:02:21.996] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 01:02:22.014] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 01:02:22.041] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 01:02:22.041] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 01:02:22.041] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 01:02:22.041] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 01:02:43.805] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 9a0cdce1-cdea-44bc-a614-bff9f8f14ab1 접속
+[2020/10/30 01:02:43.805] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 01:02:43.926] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 01:08:04.912] [TID:13] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 9a0cdce1-cdea-44bc-a614-bff9f8f14ab1 접속해제: SocketError
+[2020/10/30 01:09:54.662] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 01:09:54.680] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 01:09:54.708] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 01:09:54.710] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 01:09:54.710] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 01:09:54.710] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 01:10:17.450] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 2718552d-1844-4cfe-bce5-f13328d8ac7b 접속
+[2020/10/30 01:10:17.450] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 01:10:17.569] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 01:16:16.363] [TID:13] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 2718552d-1844-4cfe-bce5-f13328d8ac7b 접속해제: SocketError
+[2020/10/30 01:16:20.921] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 01:16:20.938] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 01:16:20.964] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 01:16:20.964] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 01:16:20.964] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 01:16:20.964] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 01:16:25.999] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 20d44adf-5909-4997-9956-9f9e4d179c68 접속
+[2020/10/30 01:16:25.999] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 01:16:26.121] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 01:16:34.853] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 01:16:34.892] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 01:16:34.956] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 01:16:34.956] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 01:16:34.956] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 01:16:34.956] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 01:16:36.880] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 01:16:36.899] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 01:16:36.926] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 01:16:36.926] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 01:16:36.929] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 01:16:36.929] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 01:16:41.386] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 dc69607a-052b-4f07-ac14-74ce5f4c9480 접속
+[2020/10/30 01:16:41.386] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 01:16:41.505] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 01:16:45.933] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 01:16:45.950] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 01:16:45.977] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 01:16:45.977] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 01:16:45.977] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 01:16:45.977] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 01:18:26.631] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 c814b019-6468-4b02-9115-99b6eb3e963d 접속
+[2020/10/30 01:18:26.635] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/30 01:18:26.749] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/30 01:19:32.272] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/30 01:19:32.312] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/30 01:19:32.378] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/30 01:19:32.378] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/30 01:19:32.378] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/30 01:19:32.378] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/30 01:19:36.024] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 628d2d1d-76ac-472c-8593-dad5d37761f8 접속
+[2020/10/30 01:19:39.356] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/31 00:06:00.534] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/31 00:06:00.592] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/31 00:06:00.632] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/31 00:06:00.632] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/31 00:06:00.632] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/31 00:06:00.632] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/31 00:06:37.631] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 40da7ace-69f3-4f6d-8e5f-ab83a4586a82 접속
+[2020/10/31 00:06:37.737] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/31 00:06:37.916] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:11:45.034] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/31 00:11:45.052] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/31 00:11:45.078] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/31 00:11:45.078] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/31 00:11:45.078] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/31 00:11:45.078] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/31 00:13:14.614] [TID:8] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 4f3aab88-bac1-427c-99f2-2acb2ad62239 접속
+[2020/10/31 00:13:14.619] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/31 00:13:14.737] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:15:09.945] [TID:5] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 4f3aab88-bac1-427c-99f2-2acb2ad62239 접속해제: SocketError
+[2020/10/31 00:15:15.351] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/31 00:15:15.382] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/31 00:15:15.410] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/31 00:15:15.410] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/31 00:15:15.410] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/31 00:15:15.410] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/31 00:15:46.103] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 91f4e026-f503-4d2e-8bec-8029c816fc30 접속
+[2020/10/31 00:15:46.103] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/31 00:15:46.226] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:16:33.072] [TID:7] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 91f4e026-f503-4d2e-8bec-8029c816fc30 접속해제: SocketError
+[2020/10/31 00:16:37.424] [TID:6] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 8f866981-15a0-47f9-a4e0-af7196433d0d 접속
+[2020/10/31 00:16:37.424] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 2
+[2020/10/31 00:16:37.424] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:17:22.595] [TID:7] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 8f866981-15a0-47f9-a4e0-af7196433d0d 접속해제: ClientClosing
+[2020/10/31 00:17:34.692] [TID:16] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 c0f3a192-4381-4ee9-9fac-0e4f1722131b 접속
+[2020/10/31 00:17:34.692] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 3
+[2020/10/31 00:17:34.692] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:18:49.616] [TID:5] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 c0f3a192-4381-4ee9-9fac-0e4f1722131b 접속해제: ClientClosing
+[2020/10/31 00:19:26.728] [TID:23] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 3d3f7486-2a44-4361-8264-aed202b8c834 접속
+[2020/10/31 00:19:26.728] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 4
+[2020/10/31 00:19:26.728] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:21:47.178] [TID:28] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 3d3f7486-2a44-4361-8264-aed202b8c834 접속해제: ClientClosing
+[2020/10/31 00:27:46.708] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/31 00:27:46.725] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/31 00:27:46.753] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/31 00:27:46.753] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/31 00:27:46.753] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/31 00:27:46.753] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/31 00:27:54.337] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 9ebe9bd8-21ca-43b9-8300-634e4e04f476 접속
+[2020/10/31 00:27:54.337] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 1
+[2020/10/31 00:27:54.461] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:28:10.892] [TID:6] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 9ebe9bd8-21ca-43b9-8300-634e4e04f476 접속해제: SocketError
+[2020/10/31 00:28:15.566] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 479783a0-796f-4b73-acb9-07da996b110d 접속
+[2020/10/31 00:28:15.566] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 2
+[2020/10/31 00:28:15.566] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:29:13.351] [TID:8] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 479783a0-796f-4b73-acb9-07da996b110d 접속해제: ClientClosing
+[2020/10/31 00:29:24.429] [TID:8] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 4e0e97f3-e6de-46dc-b9ba-e33ef6fab2af 접속
+[2020/10/31 00:29:24.429] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 3
+[2020/10/31 00:29:24.429] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:30:32.011] [TID:8] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 4e0e97f3-e6de-46dc-b9ba-e33ef6fab2af 접속해제: ClientClosing
+[2020/10/31 00:31:17.122] [TID:8] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 d5f00e35-e546-47be-833e-fd5f35413136 접속
+[2020/10/31 00:31:17.122] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 4
+[2020/10/31 00:31:17.122] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:32:36.183] [TID:25] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 d5f00e35-e546-47be-833e-fd5f35413136 접속해제: ClientClosing
+[2020/10/31 00:33:15.457] [TID:29] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 cb1d6427-a821-4d90-899a-e71a5c297384 접속
+[2020/10/31 00:33:15.457] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 5
+[2020/10/31 00:33:15.457] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:34:09.494] [TID:25] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 cb1d6427-a821-4d90-899a-e71a5c297384 접속해제: ClientClosing
+[2020/10/31 00:34:54.309] [TID:38] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 2bb85538-c475-4f68-878d-b2496451a310 접속
+[2020/10/31 00:34:54.309] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 6
+[2020/10/31 00:34:54.309] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:36:32.874] [TID:42] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 2bb85538-c475-4f68-878d-b2496451a310 접속해제: ClientClosing
+[2020/10/31 00:38:14.482] [TID:42] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 a99d4e57-72cf-41c4-aa9f-381839ee9df7 접속
+[2020/10/31 00:38:14.482] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 7
+[2020/10/31 00:38:14.482] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:45:09.090] [TID:53] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 a99d4e57-72cf-41c4-aa9f-381839ee9df7 접속해제: ClientClosing
+[2020/10/31 00:47:13.432] [TID:46] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 87624f34-127b-4f14-8083-cd13418987cf 접속
+[2020/10/31 00:47:13.432] [TID:9] [PacketHandlerCommon.NotifyInConnectClient => Room.EnterGame => NLogLog.Debug]: 룸 입장 PID 8
+[2020/10/31 00:47:13.432] [TID:9] [PacketProcessor.Process => PacketHandlerCommon.NotifyInConnectClient => NLogLog.Debug]: 연결 성공 플레이어 생성
+[2020/10/31 00:51:29.751] [TID:49] [<>c__DisplayClass120_0.<OnSessionClosed>b__0 => MainServer.OnClosed => NLogLog.Info]: 세션 번호 87624f34-127b-4f14-8083-cd13418987cf 접속해제: ClientClosing
+[2020/10/31 13:54:00.485] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/31 13:54:00.525] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/31 13:54:00.574] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/31 13:54:00.574] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/31 13:54:00.574] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/31 13:54:00.574] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/10/31 16:58:03.142] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/10/31 16:58:03.158] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/10/31 16:58:03.184] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) was started
+[2020/10/31 16:58:03.184] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/10/31 16:58:03.184] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/10/31 16:58:03.184] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/11/01 10:08:39.841] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/11/01 10:08:39.863] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/11/01 10:08:40.018] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) failed to start
+[2020/11/01 10:08:40.020] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/11/01 10:08:40.020] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/11/01 10:09:22.542] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/11/01 10:09:22.561] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/11/01 10:09:22.615] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:8888) failed to start
+[2020/11/01 10:09:22.615] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/11/01 10:09:22.615] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/11/01 10:09:39.801] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/11/01 10:09:39.817] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/11/01 10:09:39.842] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:7777) was started
+[2020/11/01 10:09:39.842] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/11/01 10:09:39.842] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/11/01 10:09:39.842] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server

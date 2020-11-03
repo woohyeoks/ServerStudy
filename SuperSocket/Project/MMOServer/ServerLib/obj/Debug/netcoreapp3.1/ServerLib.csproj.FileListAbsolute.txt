@@ -1,0 +1,9 @@
+D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\bin\Debug\netcoreapp3.1\ServerLib.deps.json
+D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\bin\Debug\netcoreapp3.1\ServerLib.dll
+D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\bin\Debug\netcoreapp3.1\ServerLib.pdb
+D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\obj\Debug\netcoreapp3.1\ServerLib.csprojAssemblyReference.cache
+D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\obj\Debug\netcoreapp3.1\ServerLib.AssemblyInfoInputs.cache
+D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\obj\Debug\netcoreapp3.1\ServerLib.AssemblyInfo.cs
+D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\obj\Debug\netcoreapp3.1\ServerLib.dll
+D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\obj\Debug\netcoreapp3.1\ServerLib.pdb
+D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\ServerLib\obj\Debug\netcoreapp3.1\ServerLib.csproj.CoreCompileInputs.cache
