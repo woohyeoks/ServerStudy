@@ -89,10 +89,12 @@ namespace MMOServer
             // 옵션의 최대 연결 수를 넘으면 SuperSocket이 바로 접속을 짤라버린다. 즉 이 OnConnected 함수가 호출되지 않는다.
             MainLogger.Info(string.Format("OnConnected 세션 번호 {0} 접속", session.SessionID));
 
-            // 플레이어 추가 맵에 추가
+            // 세션 추가
+            SessionManager.Instance.AddSession(session);
+            session.OnConnected();
             
-            var packet = ServerPacketData.MakeNTFInConnectOrDisConnectClientPacket(true, session.SessionID);
-            Distribute(packet);
+           /* var packet = ServerPacketData.MakeNTFInConnectOrDisConnectClientPacket(true, session.SessionID);
+            Distribute(packet);*/
         }
 
         void OnClosed(ClientSession session, CloseReason reason)
@@ -106,13 +108,15 @@ namespace MMOServer
         {
             MainLogger.Debug(string.Format("세션 번호 {0} 받은 데이터 크기: {1}, ThreadId: {2}", session.SessionID, reqInfo.Body.Length, System.Threading.Thread.CurrentThread.ManagedThreadId));
 
-            var packet = new ServerPacketData();
+            session.OnRecvPacket(reqInfo.Body);
+
+           /* var packet = new ServerPacketData();
             packet.SessionID = session.SessionID;
             packet.PacketSize = reqInfo.Size;
             packet.PacketID = reqInfo.PacketID;
             packet.BodyData = reqInfo.Body;
 
-            Distribute(packet);
+            Distribute(packet);*/
 
         }
 

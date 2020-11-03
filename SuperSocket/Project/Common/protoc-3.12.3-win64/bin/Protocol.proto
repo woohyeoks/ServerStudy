@@ -11,46 +11,34 @@ enum MsgId {
   S_DESPAWN = 3;
   C_MOVE = 4;
   S_MOVE = 5;
-  C_SKILL = 6;
-  S_SKILL = 7;
 }
-enum CreatureState{
-    IDLE = 0;
-    MOVING = 1;
-    SKILL = 2;
-    DEAD = 3;
+
+enum CreatureState {
+  IDLE = 0;
+  MOVING = 1;
+  SKILL = 2;
+  DEAD = 3;
 }
 
 enum MoveDir {
-    UP = 0;
-    DOWN = 1;
-    LEFT = 2;
-    RIGHT = 3;
+  NONE = 0;
+  UP = 1;
+  DOWN = 2;
+  LEFT = 3;
+  RIGHT = 4;
 }
-
-
-enum GameObjectTpye {
-    NONE = 0;
-    PLAYER = 1;
-    MONSTER = 2;
-    PROJECTILE= 3;
-}
-
-
 
 message S_EnterGame {
-  ObjectInfo player = 1;
+  PlayerInfo player = 1;
 }
 
 message S_LeaveGame {
 }
 
-// 주변에 누구누구 있는지 여러명 있을 수 있으니, repeated 형태로 만들어 주자!
 message S_Spawn {
-  repeated ObjectInfo objects = 1;
+  repeated PlayerInfo players = 1;
 }
 
-// 주변에 어떤 애가 없어질지
 message S_Despawn {
   repeated int32 playerIds = 1;
 }
@@ -59,40 +47,20 @@ message C_Move {
   PositionInfo posInfo = 1;
 }
 
-
-// 누가 이동을 할지
 message S_Move {
   int32 playerId = 1;
   PositionInfo posInfo = 2;
 }
 
-
-
-message ObjectInfo{
-  int32 objectId = 1;
+message PlayerInfo {
+  int32 playerId = 1;
   string name = 2;
   PositionInfo posInfo = 3;
 }
 
 message PositionInfo {
-    CreatureState state = 1;
-    MoveDir moveDir = 2;
-    int32 posX = 3;
-    int32 posY = 4;
-}
-
-
-// 스킬 사용하고 싶어요 
-message C_Skill {
-    SkillInfo info = 1;
-}
-
-// 스킬 사용한데요 브로드 캐스트 전용 패킷 
-message S_Skill {
-    int32 playerId = 1; 
-    SkillInfo info = 2;
-}
-
-message SkillInfo{
-    int32 SkillId =1;
+  CreatureState state = 1;
+  MoveDir moveDir = 2;
+  int32 posX = 3;
+  int32 posY = 4;
 }

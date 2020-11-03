@@ -9,19 +9,20 @@ namespace MMOServer.Game
     {
         public static PlayerManager Instance { get; } = new PlayerManager();
 
-        object m_lock = new object();
+        object _lock = new object();
+
         Dictionary<int, Player> m_players = new Dictionary<int, Player>();
 
-        int m_playerId = 1;
+        int _playerId = 1;
 
         public Player Add()
         {
             Player player = new Player();
-            lock (m_lock)
+            lock (_lock)
             {
-                player.Info.ObjectId = m_playerId;
-                m_players.Add(m_playerId, player);
-                m_playerId++;
+                player.Info.PlayerId = _playerId;
+                m_players.Add(_playerId, player);
+                _playerId++;
             }
             return player;
         }

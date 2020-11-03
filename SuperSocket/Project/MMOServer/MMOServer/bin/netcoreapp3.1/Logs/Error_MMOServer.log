@@ -119,3 +119,15 @@
    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
    at System.Net.Sockets.Socket.Bind(EndPoint localEP)
    at SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config) in D:\MyProject\Programming\Share_Git\SuperSocketLite\SocketEngine\TcpAsyncSocketListener.cs:line 41
+[2020/11/03 23:17:08.377] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Game.PlayerManager.Add() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Game\PlayerManager.cs:line 22
+   at MMOServer.Packet.PacketHandlerCommon.NotifyInConnectClient(ServerPacketData requestData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketHandlerCommon.cs:line 23
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 49
+[2020/11/03 23:47:21.049] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Game.PlayerManager.Add() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Game\PlayerManager.cs:line 22
+   at MMOServer.Packet.PacketHandlerCommon.NotifyInConnectClient(ServerPacketData requestData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketHandlerCommon.cs:line 23
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 49
+[2020/11/03 23:51:17.157] [TID:9] [Extensions.IfTrue => <>c__DisplayClass9_0.<Process>b__0 => NLogLog.Error]: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MMOServer.Game.PlayerManager.Add() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Game\PlayerManager.cs:line 22
+   at MMOServer.Packet.PacketHandlerCommon.NotifyInConnectClient(ServerPacketData requestData) in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketHandlerCommon.cs:line 23
+   at MMOServer.Packet.PacketProcessor.Process() in D:\MyProject\Programming\ServerStudy\SuperSocket\Project\MMOServer\MMOServer\Packet\PacketProcessor.cs:line 49

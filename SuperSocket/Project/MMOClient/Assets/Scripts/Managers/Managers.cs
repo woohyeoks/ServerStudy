@@ -14,11 +14,14 @@ public class Managers : MonoBehaviour
     ResourcesManager m_resource = new ResourcesManager();
     ObjectManager m_object = new ObjectManager();
     MapManager m_map = new MapManager();
+    NetworkManager m_network = new NetworkManager();
+
+
     public static InputManager Input { get { return Instance.m_input; } }
     public static ResourcesManager Resource { get { return Instance.m_resource; } } 
     public static ObjectManager Object { get { return Instance.m_object; } }
     public static MapManager Map { get { return Instance.m_map; } }
-
+    public static NetworkManager Network { get { return Instance.m_network; } }
     // Start is called before the first frame update
     void Start()
     {
@@ -43,6 +46,10 @@ public class Managers : MonoBehaviour
             }
             DontDestroyOnLoad(go);
             g_Instance = go.GetComponent<Managers>();
+
+
+            g_Instance.m_network.Init();
+
         }
     }
 }

@@ -442,3 +442,31 @@
 [2020/11/01 10:09:39.842] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
 [2020/11/01 10:09:39.842] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
 [2020/11/01 10:09:39.842] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/11/03 23:16:43.624] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/11/03 23:16:43.658] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/11/03 23:16:43.691] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:7777) was started
+[2020/11/03 23:16:43.691] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/11/03 23:16:43.691] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/11/03 23:16:43.691] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/11/03 23:17:08.298] [TID:5] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 e2fe00cf-c159-4afc-b969-cc74c706cad7 접속
+[2020/11/03 23:44:30.180] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/11/03 23:44:30.196] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/11/03 23:44:30.223] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:7777) was started
+[2020/11/03 23:44:30.223] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/11/03 23:44:30.223] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/11/03 23:44:30.223] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/11/03 23:47:21.029] [TID:11] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 500e3323-5a4c-4895-a2b5-bc2aa328faf3 접속
+[2020/11/03 23:51:12.683] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/11/03 23:51:12.700] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/11/03 23:51:12.726] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:7777) was started
+[2020/11/03 23:51:12.726] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/11/03 23:51:12.726] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/11/03 23:51:12.726] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/11/03 23:51:17.136] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 4f4d23a5-35a2-4e8c-96c8-e52a0ec01dd6 접속
+[2020/11/03 23:51:27.692] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/11/03 23:51:27.733] [TID:1] [MainServer.CreateStartServer => MainServer.CreateComponent => NLogLog.Info]: CreateComponent - Success
+[2020/11/03 23:51:27.823] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:7777) was started
+[2020/11/03 23:51:27.826] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance MMOServer has been started!
+[2020/11/03 23:51:27.826] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/11/03 23:51:27.826] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
+[2020/11/03 23:51:28.903] [TID:4] [<>c__DisplayClass112_0.<OnNewSessionConnected>b__0 => MainServer.OnConnected => NLogLog.Info]: OnConnected 세션 번호 90e7edce-7fe1-481e-b65c-d6c69719d8a0 접속

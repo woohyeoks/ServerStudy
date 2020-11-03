@@ -9,10 +9,10 @@ namespace MMOServer
 {
     public class EFBinaryRequestInfo : BinaryRequestInfo
     {
-        public Int16 Size { get; private set; }
-        public Int16 PacketID { get; private set; }
+        public ushort Size { get; private set; }
+        public ushort PacketID { get; private set; }
 
-        public EFBinaryRequestInfo(Int16 size, Int16 packetID, byte[] body)
+        public EFBinaryRequestInfo(ushort size, ushort packetID, byte[] body)
             : base(null, body)
         {
             this.Size = size;
@@ -43,8 +43,8 @@ namespace MMOServer
                 if (!BitConverter.IsLittleEndian)
                     Array.Reverse(header.Array, 0, ServerLib.PacketDef.PACKET_HEADER_SIZE);
 
-                return new EFBinaryRequestInfo(BitConverter.ToInt16(header.Array, 0),
-                                               BitConverter.ToInt16(header.Array, 2),
+                return new EFBinaryRequestInfo((ushort)BitConverter.ToInt16(header.Array, 0),
+                                               (ushort)BitConverter.ToInt16(header.Array, 2),
                                                bodyBuffer.CloneRange(offset, length));
             }
 
